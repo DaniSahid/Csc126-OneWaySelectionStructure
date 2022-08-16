@@ -9,7 +9,8 @@ int main(){
 	if(payment>5000 && payment<10000) {                 
 		cout<<"\nYou got a free ticket to Langkawi !!!!";
 	}
-	
+	else{
+		cout<<"\nNo free ticket for you";
 	return 0;
 	
 }
